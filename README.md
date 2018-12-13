@@ -59,7 +59,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Jeffrey Ng** - *Initial work* - [PurpleBooth](https://github.com/stardust2810)
+* **Jeffrey Ng** - *Initial work* - [Stardust2810](https://github.com/stardust2810)
 
 ## License
 
