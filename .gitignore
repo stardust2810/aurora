@@ -28,3 +28,9 @@ out/
 *.iml
 .idea
 .gradle
+
+# ignore the karate-config.js
+karate-config.js
+auth.js
+*.pfx
+*.store

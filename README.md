@@ -13,13 +13,15 @@ What things you need to install the software and how to install them
 ```
 1) Maven
 2) Karate
-3) Mockoon
+3) Mockoon (optional, only required for unit testing
 4) http://jsonpath.com/ - for testing and verifying json path
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
+Need to import the private key into the java keystore
+keytool -importkeystore -srckeystore mypfxfile.pfx -srcstoretype pkcs12  -destkeystore aurora.store -deststoretype JKS
 
 Say what the step will be
 
